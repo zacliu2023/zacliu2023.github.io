@@ -18,7 +18,7 @@ Foundation Models • Multimodal Learning • Training Data • AI Infrastructur
 
 **[AltCLIP](https://huggingface.co/collections/BAAI/alt-clip-diffusion)** (Equal Author) — Multilingual vision-language model extending CLIP to multiple languages (ACL Findings 2023, 706K+ downloads)
 
-**[Aquila](https://huggingface.co/collections/BAAI/aquila)** (Project Lead) — Open-source large language models optimized for Chinese and multilingual applications (627K+ downloads)
+**[Aquila](https://huggingface.co/collections/BAAI/aquila)** (Project Lead) — Open-source large language models optimized for Chinese and multilingual applications (627K+ downloads) • [First MOF Class I Open Science certified model](https://lfaidata.foundation/blog/2024/12/18/baai-aquila-vl-2b-sets-a-benchmark-as-the-first-to-earn-lf-ai-datas-mof-class-i-open-science-rating/)
 
 **[Infinity Models](https://huggingface.co/collections/BAAI/infinity-instruct)** (Project Lead) — Multimodal instruction-following models trained on large-scale high-quality instruction data (737K+ downloads)
 
